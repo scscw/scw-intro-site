@@ -1,6 +1,7 @@
-myproject/
-__pycache__/
-*.pyc
-db.sqlite3
-.env
+# 윈도우 시스템 파일 무시
+NTUSER.DAT
+NTUSER.*
 AppData/
+OneDrive/
+.vscode/
+.anaconda/
